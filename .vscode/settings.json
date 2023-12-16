@@ -1,0 +1,8 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/victorhugo/Downloads/connector/mysql-connector-j-8.2.0.jar",
+    "/Users/victorhugo/Downloads/connector/**/*.jar"
+  ]
+}
